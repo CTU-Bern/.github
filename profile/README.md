@@ -6,4 +6,4 @@ It is the Clinical Trials Unit of the Faculty of Medicine of the University of B
 
 CTU Bern supports and collaborates in clinical studies primarily initiated by investigators of the University of Bern and collaborating institutions.
 
-Besides our work supporting Clinical trialists, we also develop software and make it here.
+Besides our work supporting Clinical trialists, we also develop software and make it available here.
