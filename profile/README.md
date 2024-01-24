@@ -1,9 +1,7 @@
 ## CTU Bern
 
-CTU Bern is an independent institution of the University of Bern.
+CTU Bern is a unit of the Department of Clinical Research of the University of Bern.
 
-It is the Clinical Trials Unit of the Faculty of Medicine of the University of Bern and the Inselspital, Bern University Hospital.
-
-CTU Bern supports and collaborates in clinical studies primarily initiated by investigators of the University of Bern and collaborating institutions.
+CTU Bern is the clinical trials unit of the Faculty of Medicine of the University of Bern and the DCR and provides comprehensive support for patient-centered research in the areas of data management, clinical study management, statistics & methodology, monitoring and quality management.
 
 Besides our work supporting Clinical trialists, we also develop software and make it available here.
